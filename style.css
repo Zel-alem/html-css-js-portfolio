@@ -9,13 +9,14 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  color: purple;
 }
 
 html {
   scroll-behavior: smooth;
 }
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(8, 8, 8);
 }
 
 /* TRANSITION */
